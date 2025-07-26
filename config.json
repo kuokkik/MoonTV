@@ -19,6 +19,10 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
     },
+      "ruyi": {
+      "api": "https://www.avre06.com/api.php/provide/vod",
+      "name": "资源"
+    },
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
